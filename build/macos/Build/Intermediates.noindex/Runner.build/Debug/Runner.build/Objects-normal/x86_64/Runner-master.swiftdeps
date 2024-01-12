@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "853220182fc3b51836bfe9c58622d6093f1a68190b22199510671f53f2d773b5"
+build_start_time: [1704896536, 872457000]
+build_end_time: [1704896551, 362783000]
+inputs:
+  "/Users/kam/Desktop/project pet/cat_nutrition/macos/Flutter/GeneratedPluginRegistrant.swift": [1704896499, 823551017]
+  "/Users/kam/Desktop/project pet/cat_nutrition/macos/Runner/AppDelegate.swift": [1700027726, 0]
+  "/Users/kam/Desktop/project pet/cat_nutrition/macos/Runner/MainFlutterWindow.swift": [1700027726, 0]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228433822300",
+    "project_id": "cat-nutrition-29266",
+    "storage_bucket": "cat-nutrition-29266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228433822300:android:12656d7104742c7a981c99",
+        "android_client_info": {
+          "package_name": "com.company.CatNutrition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6bzx__6bGgLm77AOzQae37rsEb0CU8x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
